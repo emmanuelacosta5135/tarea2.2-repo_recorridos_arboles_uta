@@ -370,3 +370,9 @@ XI. REFERENCIAS
 [3]  M. A. Weiss, Data Structures and Algorithm Analysis in C++, 4th ed. Upper Saddle River, NJ: Pearson, 2014.
 [4]  cppreference.com, "std::queue — C++ Reference," 2024. [En línea]. Disponible: https://en.cppreference.com/w/cpp/container/queue
 [5]  Universidad Técnica de Ambato, Guía práctica: Recorridos de árboles binarios. Ambato: Facultad de Ingeniería en Sistemas, 2025.
+capturas del funcionamiento del codigo:
+c++
+<img width="781" height="521" alt="image" src="https://github.com/user-attachments/assets/7d58e5bd-5e2b-4f5e-b6c9-28389c41cf53" />
+java
+<img width="722" height="606" alt="image" src="https://github.com/user-attachments/assets/fbe21cd7-9755-4d91-bf59-7a35240a9f34" />
+
